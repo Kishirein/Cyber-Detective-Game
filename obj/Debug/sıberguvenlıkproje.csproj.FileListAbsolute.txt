@@ -1,0 +1,13 @@
+D:\KODLAMALARIM\sıberguvenlıkproje\sıberguvenlıkproje\bin\Debug\sıberguvenlıkproje.exe.config
+D:\KODLAMALARIM\sıberguvenlıkproje\sıberguvenlıkproje\bin\Debug\sıberguvenlıkproje.exe
+D:\KODLAMALARIM\sıberguvenlıkproje\sıberguvenlıkproje\bin\Debug\sıberguvenlıkproje.pdb
+D:\KODLAMALARIM\sıberguvenlıkproje\sıberguvenlıkproje\obj\Debug\sıberguvenlıkproje.csproj.AssemblyReference.cache
+D:\KODLAMALARIM\sıberguvenlıkproje\sıberguvenlıkproje\obj\Debug\sıberguvenlıkproje.Form1.resources
+D:\KODLAMALARIM\sıberguvenlıkproje\sıberguvenlıkproje\obj\Debug\sıberguvenlıkproje.Form2.resources
+D:\KODLAMALARIM\sıberguvenlıkproje\sıberguvenlıkproje\obj\Debug\sıberguvenlıkproje.Form3.resources
+D:\KODLAMALARIM\sıberguvenlıkproje\sıberguvenlıkproje\obj\Debug\sıberguvenlıkproje.Properties.Resources.resources
+D:\KODLAMALARIM\sıberguvenlıkproje\sıberguvenlıkproje\obj\Debug\sıberguvenlıkproje.Resource1.resources
+D:\KODLAMALARIM\sıberguvenlıkproje\sıberguvenlıkproje\obj\Debug\sıberguvenlıkproje.csproj.GenerateResource.cache
+D:\KODLAMALARIM\sıberguvenlıkproje\sıberguvenlıkproje\obj\Debug\sıberguvenlıkproje.csproj.CoreCompileInputs.cache
+D:\KODLAMALARIM\sıberguvenlıkproje\sıberguvenlıkproje\obj\Debug\sıberguvenlıkproje.exe
+D:\KODLAMALARIM\sıberguvenlıkproje\sıberguvenlıkproje\obj\Debug\sıberguvenlıkproje.pdb
